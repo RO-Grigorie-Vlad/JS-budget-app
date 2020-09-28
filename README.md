@@ -22,8 +22,8 @@ I created this app in order to learn **JS ES5**.
 ## Usage
 
 - Open the `index.html` file using any browser installed on your system.
-- If you want to input an input - select the **(+)** sign from the select element on the left side of the page.
-- If you want to input a expense - select the **(-)** sign from the select element.
+- If you want to introduce an income - select the **(+)** sign from the select element on the left side of the page.
+- If you want to introduce an expense - select the **(-)** sign from the select element.
 - Provide a meaningful description (Example : "salary" or "project").
 - Input the amount (curency doesn't matter).
 - **Both the description and the amount are required**. Nothing happends if either of them is not provided.
